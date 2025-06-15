@@ -1,0 +1,60 @@
+17:51:41:165 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4351c8c3: 166 ms
+17:51:41:197 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3e10dc6: 21 ms
+17:51:41:211 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@665df3c6: 13 ms
+17:51:41:235 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@fb9c7aa: 23 ms
+17:51:41:245 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5dd91bca: 10 ms
+17:51:41:245 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@40cb698e: 0 ms
+18:06:48:714 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+18:11:47:295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+18:11:47:352 [main] INFO  testCases.TC001_AccountRegistrationTest - *************** Stating TC001_AccountRegistrationTest ***************
+18:11:47:382 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.......
+18:15:25:673 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+18:20:14:301 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+18:20:31:728 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\CrossBrowserTesting.xml
+
+18:20:37:621 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *************** Stating TC001_AccountRegistrationTest ***************
+18:20:38:094 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link 
+18:20:39:027 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *************** Stating TC001_AccountRegistrationTest ***************
+18:20:39:361 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link 
+18:20:39:662 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link 
+18:20:39:666 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Registering the customer details 
+18:20:40:333 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link 
+18:20:40:333 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Registering the customer details 
+18:20:41:712 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *************** Stating TC001_AccountRegistrationTest ***************
+18:20:42:059 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link 
+18:20:42:108 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message...
+18:20:42:172 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *************** Finishing TC001_AccountRegistrationTest ***************
+18:20:42:257 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message...
+18:20:42:382 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *************** Finishing TC001_AccountRegistrationTest ***************
+18:20:43:658 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link 
+18:20:43:659 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Registering the customer details 
+18:20:45:080 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message...
+18:20:45:111 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *************** Finishing TC001_AccountRegistrationTest ***************
+18:21:47:273 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+18:22:52:380 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+18:24:14:246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\master.xml
+
+18:24:19:826 [main] INFO  testCases.TC003_LoginDDT - *********** Starting TC003_LoginDDT ***********
+18:24:26:999 [main] INFO  testCases.TC003_LoginDDT - *********** Finished TC003_LoginDDT ***********
+18:24:27:010 [main] INFO  testCases.TC003_LoginDDT - *********** Starting TC003_LoginDDT ***********
+18:24:31:343 [main] INFO  testCases.TC003_LoginDDT - *********** Starting TC003_LoginDDT ***********
+18:24:51:422 [main] INFO  testCases.TC003_LoginDDT - *********** Starting TC003_LoginDDT ***********
+18:24:56:067 [main] INFO  testCases.TC003_LoginDDT - *********** Starting TC003_LoginDDT ***********
+18:25:02:662 [main] INFO  testCases.TC003_LoginDDT - *********** Finished TC003_LoginDDT ***********
+18:25:23:022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+

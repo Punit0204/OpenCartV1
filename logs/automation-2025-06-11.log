@@ -1,0 +1,57 @@
+11:58:07:813 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:07:820 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:07:822 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:07:822 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:07:822 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:07:822 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:07:824 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:07:838 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:07:839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:07:839 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:07:841 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:07:842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:07:842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:07:842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:07:843 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:07:844 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+11:58:07:845 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:07:845 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:07:845 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:07:845 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:07:851 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\punit.prajapati\AppData\Local\Temp\testng-eclipse--1682272627\testng-customsuite.xml
+
+11:58:07:867 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+11:58:08:175 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@55342f40: 194 ms
+11:58:08:199 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3f0846c6: 23 ms
+11:58:08:219 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2974f221: 20 ms
+11:58:08:235 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a8d39c4: 16 ms
+11:58:08:245 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@60a2630a: 10 ms
+11:58:08:245 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29df4d43: 0 ms
+12:02:51:435 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+12:08:56:864 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+12:11:19:096 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+12:13:26:627 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+12:13:26:687 [main] INFO  testCases.TC001_AccountRegistrationTest - *************** Stating TC001_AccountRegistrationTest ***************
+12:13:26:709 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.......
+12:13:26:731 [main] INFO  testCases.TC002_LoginTest - ************* Starting TC_002_LoginTest *************
+12:13:59:603 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+12:13:59:656 [main] INFO  testCases.TC001_AccountRegistrationTest - *************** Stating TC001_AccountRegistrationTest ***************
+12:13:59:675 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.......
+12:13:59:700 [main] INFO  testCases.TC002_LoginTest - ************* Starting TC_002_LoginTest *************
+12:14:35:208 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse_Vedlogic\OpenCartV1\grouping.xml
+
+12:14:35:259 [main] INFO  testCases.TC001_AccountRegistrationTest - *************** Stating TC001_AccountRegistrationTest ***************
+12:14:35:283 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.......
+12:14:35:307 [main] INFO  testCases.TC002_LoginTest - ************* Starting TC_002_LoginTest *************
